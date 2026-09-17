@@ -35,6 +35,5 @@ Les données ne sont ni vendues ni utilisées à des fins publicitaires.
 
 ## Contact
 
-Pour toute question relative à cette extension :
-
-supportinfo@atoll.fr
+Pour toute question concernant cette extension,
+merci de contacter le service informatique Groupe ATOLL.
