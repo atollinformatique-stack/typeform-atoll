@@ -37,4 +37,4 @@ Les données ne sont ni vendues ni utilisées à des fins publicitaires.
 
 Pour toute question relative à cette extension :
 
-support.informatique@groupe-atoll.com
+supportinfo@atoll.fr
